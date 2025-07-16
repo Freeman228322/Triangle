@@ -123,7 +123,7 @@ namespace Man
             double number2 = triangle.GetPloshad();
             Console.WriteLine($"Периметр со сторонами {triangle.Third_side},{triangle.Second_side},{triangle.First_side} равен {number1}");
             Console.WriteLine($"Основание {triangle.GetOsnovanie()} и высота {triangle.Height}. Площадь равна {number2}");
-            WriteLine("asdasd");
+           
 
             Console.WriteLine("");
 
